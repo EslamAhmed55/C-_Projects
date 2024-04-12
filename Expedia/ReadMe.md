@@ -1,4 +1,4 @@
-# Expedia.com Simplified Version
+# Expedia.com 
 
 ## Project Overview:
 This project aims to create a simplified version of the Expedia.com website, focusing on managing user itineraries consisting of flights and hotels. 
